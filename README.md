@@ -24,5 +24,9 @@ A trainee from Germany 🇩🇪. Currently training to become a Solution Expert 
 
 ### 💻 **Stats :**
 <p align="center">
+    <a href="">
+        <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e0b9f2ce-2ce5-4f95-b45b-080f8b2eebfa" />
+    </a>
+
   <a href="https://github.com/HeidrichJannic"><img alt="Heidrich Jannic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeidrichJannic&show_icons=true&theme=radical&hide=contribs"/></a>
 </p>
