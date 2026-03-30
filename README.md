@@ -1,10 +1,17 @@
 # Hi 👋, I'm Jannic
-A trainee from Germany 🇩🇪. Currently training to become a Solution Expert at [PlanB. GmbH](https://www.planb.net/en) in Hüttlingen, Germany.
+A 19-year-old trainee from Germany 🇩🇪, currently training to become a Solution Expert at [PlanB. GmbH](https://www.planb.net/en) in Hüttlingen. <br>
+Passionate about productivity, building apps in public and writing about it on Medium.
 
 ### ⚡️ **A few quick facts :**
 - 🌍 I'm based in **Germany**
 - 💬 I speak **German** & **English**
-- 🌱 My hobbies are **hiking**, playing **video games**, listening to **music**, and **watching series and movies**
+- 🚀 I'm building **productivity apps** in public & explore ways to optimise minimalist and highly productive workspaces
+- 🌱 My hobbies are **hiking**, playing **video games**, listening to **music**, **watching series and movies** & **building apps**
+
+### ✍️ **Writing about it too :**
+- 📝 [The Pilot-Passenger Principle](https://medium.com/@jannic-heidrich/the-pilot-passenger-principle-c435fe0d8c4b)
+
+<sub>👉 Read more on [Medium](https://medium.com/@jannic-heidrich)</sub>
 
 ---
 
