@@ -25,6 +25,9 @@ A trainee from Germany 🇩🇪. Currently training to become a Solution Expert 
 ### 📑 **Certificates :**
 <p align="center">
     <a href="https://drive.proton.me/urls/YCNKEWJ340#JvMiRrkky9BR">
-        <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/e0b9f2ce-2ce5-4f95-b45b-080f8b2eebfa" />
+        <img width="96" height="96" alt="CCNA: Introduction to Networks Cert" src="https://github.com/user-attachments/assets/e0b9f2ce-2ce5-4f95-b45b-080f8b2eebfa" />
+    </a>
+    <a href="https://drive.proton.me/urls/SBS17HVNH4#q5p5Pf9jYZdE">
+        <img width="96" height="96" alt="AZURE: Fundamentals Cert" src="https://github.com/user-attachments/assets/c4ba2be0-9b1a-46e4-a786-b2c6a1bebf2a" />
     </a>
 </p>
