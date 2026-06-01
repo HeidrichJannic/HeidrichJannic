@@ -37,4 +37,7 @@ Passionate about productivity, building apps in public and writing about it on M
     <a href="https://drive.proton.me/urls/SBS17HVNH4#q5p5Pf9jYZdE">
         <img width="96" height="96" alt="AZURE: Fundamentals Cert" src="https://github.com/user-attachments/assets/c4ba2be0-9b1a-46e4-a786-b2c6a1bebf2a" />
     </a>
+    <a href="https://drive.proton.me/urls/D26WQ4KGMG#daaLeTMohcE5">
+        <img width="96" height="96" alt="LinuxFoundation: Introduction to Linux Cert" src="https://training.linuxfoundation.org/wp-content/uploads/2020/09/LFS101-Course-Badge-1.png" />
+    </a>
 </p>
