@@ -40,4 +40,7 @@ Passionate about productivity, building apps in public and writing about it on M
     <a href="https://drive.proton.me/urls/D26WQ4KGMG#daaLeTMohcE5">
         <img width="96" height="96" alt="LinuxFoundation: Introduction to Linux Cert" src="https://training.linuxfoundation.org/wp-content/uploads/2020/09/LFS101-Course-Badge-1.png" />
     </a>
+    <a href="https://drive.proton.me/urls/CN9FYCGBD4#TlDo1FkHOJE6">
+        <img width="96" height="96" alt="LinuxFoundation: Introduction to Kubernetes Cert" src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" />
+    </a>
 </p>
